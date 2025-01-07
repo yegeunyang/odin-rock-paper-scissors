@@ -1,3 +1,3 @@
-This simple HTML & JavaScript project explores basic JavaScript concepts like using functions and variables, getting a user input, printing to the console.
+This simple HTML & JavaScript project explores basic JavaScript concepts like adding event listeners and manipulating DOM.
 
-You can play Rock Paper and Scissors game against a computer on a console in your browser by calling `playGame()` function. You will be playing 5 rounds.
+You can play Rock Paper and Scissors game against a computer by clicking buttons. The game stops when either you or the computer wins 5 rounds.
